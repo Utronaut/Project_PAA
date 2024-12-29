@@ -1,0 +1,32 @@
+n = 100:
+Worst case: 0.000000 seconds
+Average case: 0.000000 seconds
+
+n = 150:
+Worst case: 0.000000 seconds
+Average case: 0.000000 seconds
+
+n = 200:
+Worst case: 0.000000 seconds
+Average case: 0.000000 seconds
+
+n = 250:
+Worst case: 0.000000 seconds
+Average case: 0.000000 seconds
+
+n = 300:
+Worst case: 0.000000 seconds
+Average case: 0.000000 seconds
+
+n = 350:
+Worst case: 0.000000 seconds
+Average case: 0.000000 seconds
+
+n = 400:
+Worst case: 0.002009 seconds
+Average case: 0.000020 seconds
+
+n = 500:
+Worst case: 0.000000 seconds
+Average case: 0.000000 seconds
+
